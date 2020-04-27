@@ -1,0 +1,100 @@
+
+body{
+  background-color: #00909e;
+  
+}
+.App {
+
+  font-size: 32px;
+  font-family: Arial, Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+.date{
+  font-size: 16px;
+  
+  color:#dae1e7;
+  margin-top: -.2%;
+  border: none;
+  margin: left 50%;
+  margin: right 50%;
+  border-radius: 5px;
+}
+.Discription
+{
+  padding: 1%;
+ 
+  background-color: #27496d;
+  font-size: 16px;
+  color:#dae1e7;
+  margin-top: 0%;
+}
+.task
+{
+  padding: 0.2%;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-bottom: 2%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+ background: steelblue;
+  color:#dae1e7;
+  padding: '20%';
+  
+}
+.Title{
+  padding: 1.5%;
+  margin-top: 0%;
+  margin-bottom: 0%;
+  background-color: #142850;
+  font-weight: bold;
+	color: #dae1e7;
+	font-weight: normal;  
+	font-size: 36px;
+}
+.AddButton{
+ background: #142850;
+ color: #dae1e7;
+ padding: 1rem;
+ border: none;
+ 
+ margin: 15px;
+ border-radius: 5px;
+}
+
+footer{
+  font-weight: bold;
+  object-position: bottom;
+  font-size: small;
+  color: #dae1e7;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+.ClearButton{
+ margin-left: 5%;
+  background: #142850;
+ color:#dae1e7;
+ border: none;
+ border-radius: 50px;
+
+}
+
+div#List-Container {  text-align: center }
+
+.List{
+  background-color: #27496d;
+  margin-left: 30%;
+  margin-right: 30%;
+font-size: 16px;
+  height: inherit;
+  align-content: center;
+  align-self: center;
+  border-radius: 5px;
+}
+
+input[type=text] {
+  background-color: #dbdbdb;
+  color: black;
+}
+
